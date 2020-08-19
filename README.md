@@ -665,7 +665,7 @@ Medium: https://medium.com/tron-foundation
 
 ##### 2.Khi được sự đồng ý của tác giả, cho phép trích dẫn phi lợi nhuận cho tác phẩm, cần ghi rõ nguồn và tác giả để thể hiện sự tôn trọng tác phẩm của tác giả.
 
-##### 3.Nguồn: https://tp-lab.github.io/BlockchainGuide-TRON-EN/; tác giả: TokenPocket.
+##### 3.Nguồn: http://github.tokenpocket.pro/BlockchainGuide-TRON-VI/; tác giả: TokenPocket.
 
 ##### 4.Nghiêm cấm đăng lại mà không được phép. Đối với việc đăng lại bất hợp pháp, TokenPocket và tác giả / dịch giả có quyền theo đuổi các hành động pháp lý.
 
