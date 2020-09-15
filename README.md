@@ -37,7 +37,7 @@ Nếu người dùng đã có ví TRON, họ có thể thêm ví mới thông qu
 
 Điểm băng thông (BP) là số byte có thể được sử dụng bởi một tài khoản để thực hiện các giao dịch. Cứ sau 24 giờ, mạng TRON cấp cho mỗi tài khoản 5000 Điểm băng thông miễn phí và việc thực hiện các giao dịch bổ sung sẽ yêu cầu TRX đóng băng để tạo thêm điểm băng thông. Tất nhiên, người dùng không có băng thông vẫn có thể truy cập vào tất cả các tính năng. Hệ thống sẽ sử dụng một số lượng TRX nhất định làm phí xử lý để đảm bảo tài khoản hoạt động bình thường. Các tài khoản TRON mới chưa được kích hoạt sẽ cần các địa chỉ khác để chuyển bất kỳ lượng TRX nào vào chúng. Sau đó, người dùng sẽ có thể xem điểm năng lượng và băng thông hiện tại của mình trên trang nguồn.
 
-**Năng lượng**
+**ăng lượng**
 
 Năng lượng là tài nguyên được tiêu thụ bởi CPU của TRON Network. Giống như băng thông, nó có thể thu được thông qua các TRX đóng băng. Tuy nhiên, sẽ không có Năng lượng miễn phí được TRON phân phối cho mỗi tài khoản. Người dùng sẽ tiêu tốn Năng lượng khi sử dụng DApps. Giống như BP, tiêu thụ năng lượng cũng có thể được thanh toán trực tiếp bằng TRX.
 
@@ -272,7 +272,7 @@ TP được tính theo cách sau: đóng băng 1 TRX để được 1 TP, và 1 
 
 Một vòng bình chọn kéo dài trong 6 giờ. Kết quả bỏ phiếu và danh sách nút được cập nhật vào 0:00, 6:00, 12:00 và 18:00 (UTC) hàng ngày. Kết quả bình chọn sẽ được cập nhật trong vòng bình chọn tiếp theo.
 
-#### 2、Rút bỏ phiếu trên TRON
+#### 2、Bỏ phiếu Rút tiền trên TRON
 
 Người dùng có thể rút tất cả hoặc một phần phiếu bầu của họ từ một nút. Chỉ những mã thông báo đã được đóng băng ít nhất 3 ngày mới có thể được mở. Các mã thông báo bị đóng băng có thể không được sàng lọc cho Năng lượng hoặc băng thông dựa trên tài nguyên mà chúng đã được đóng băng để có được. Lưu ý rằng tất cả TRX được đóng băng để lấy tài nguyên đó phải được đóng băng ít nhất 3 ngày.
 
