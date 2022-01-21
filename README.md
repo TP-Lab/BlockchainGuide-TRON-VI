@@ -18,7 +18,7 @@ Khi tạo tài khoản, người dùng sẽ chỉ phải đặt tên ví và m�
 
 Một tài khoản mới cần được kích hoạt trước khi sử dụng. Để kích hoạt tài khoản mới, chủ sở hữu cần chuyển bất kỳ số TRX nào vào đó.
 
-![钱包类别 示意图](https://gz.bcebos.com/tp-upload/newBanner/01.png '钱包类别')
+![钱包类别 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-01.png '钱包类别')
 
 <center>Trang tạo ví Tron trong TokenPocket</center>
 
@@ -26,7 +26,7 @@ Một tài khoản mới cần được kích hoạt trước khi sử dụng. �
 
 Nếu người dùng đã có ví TRON, họ có thể thêm ví mới thông qua "nhập khóa cá nhân" trong ví TP. Ví có thể được thêm vào bằng cách nhập khóa cá nhân hoặc quét mã QR.
 
-![钱包类别 示意图](https://gz.bcebos.com/tp-upload/newBanner/02.png '钱包类别')
+![钱包类别 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-02.png '钱包类别')
 
 ### Đóng băng và giải phóng điểm băng thông và năng lượng
 
@@ -42,7 +42,7 @@ Năng lượng là tài nguyên được tiêu thụ bởi CPU của TRON Networ
 
 BP và Năng lượng có thể nhận được thông qua TRX đóng băng, và chúng cũng có thể được ủy quyền cho các địa chỉ khác. Trong tình huống này, tài khoản ủy quyền sở hữu TRX bị đóng băng và các phiếu bầu tương ứng trong khi tài khoản ủy quyền được hưởng các tài nguyên thu được. Giống như hình thức đóng băng thông thường, các nguồn lực được ủy quyền sẽ bị đóng băng trong ba ngày.
 
-![钱包类别 示意图](https://gz.bcebos.com/tp-upload/newBanner/03.png '钱包类别')
+![钱包类别 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-03.png '钱包类别')
 
 **TRON hủy đóng bằng**
 
@@ -76,13 +76,13 @@ Là một mã thông báo chuỗi chính, TRX hiện được hỗ trợ bởi g
 
 Flash Swap cho phép người dùng trao đổi các mã thông báo khác để lấy TRX. Không giống như mô hình sổ đặt hàng được hầu hết các sàn giao dịch chấp nhận, Flash Swap sử dụng mô hình “ngân hàng”nơi hoán đổi mã thông báo có thể được thực hiện trong vài giây.
 
-![钱包类别 示意图](https://gz.bcebos.com/tp-upload/newBanner/04.png '钱包类别')
+![钱包类别 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-04.png '钱包类别')
 
 **Mua hàng bằng tiền Fiat**
 
 Người dùng có thể mua TRX bằng tiền fiat trong TokenPocket. TRX sẽ được chuyển trực tiếp vào ví Tron sau khi mua.
 
-![钱包类别 示意图](https://gz.bcebos.com/tp-upload/newBanner/05.png '钱包类别')
+![钱包类别 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-05.png '钱包类别')
 
 ### Các mã thông báo khác trên TRON
 
@@ -98,7 +98,7 @@ Hiện tại, hầu hết các ví TRON, như TP Wallet và TronLink, đều h�
 
 TRC20-USDT là stablecoin được chốt bằng USD do Tether phát hành trên mạng TRON. Việc phát hành, nắm giữ và chuyển giao trên Tron sẽ được hoàn thành thông qua hợp đồng thông minh, với quy trình hoàn toàn miễn phí và minh bạch, không tính phí chuyển nhượng và giao hàng ngay lập tức. Nó cũng cho phép khả năng tương tác với các giao thức dựa trên Tron và Ứng dụng phi tập trung (DApps) trong khi cho phép người dùng giao dịch và trao đổi các loại tiền tệ được định sẵn trên Mạng TRON.
 
-![钱包类别 示意图](https://gz.bcebos.com/tp-upload/newBanner/06.png '钱包类别')
+![钱包类别 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-06.png '钱包类别')
 
 Về phí giao dịch, TRC20-USDT có thể cung cấp giao dịch miễn phí khi tài khoản có đủ năng lượng. Theo các sàn giao dịch lớn, USDT dựa trên giao thức Omni có phí rút tiền cao nhất, người dùng tốn từ 4 đến 10 đô la cho một giao dịch, trong khi ERC-20 USDT yêu cầu phí giao dịch từ 1 đến 5 đô la. Trong khi đó, TRC-20 không cần phí giao dịch.
 
@@ -110,17 +110,17 @@ TokenPocket hỗ trợ đầy đủ TRON-USDT, nơi người dùng có thể ho�
 
 Để biết thêm thông tin về TRC-20 USDT ： https://tron.network/usdt。
 
-![钱包类别 示意图](https://gz.bcebos.com/tp-upload/newBanner/07.png '钱包类别')
+![钱包类别 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-07.png '钱包类别')
 
 #### TRON và Stablecoin USDJ
 
 USDJ là một loại tiền tệ mới được tạo ra thông qua các hợp đồng thông minh phi tập trung trên mạng TRON. Bất kỳ ai cũng có thể cầm cố TRX làm tài sản thế chấp để tạo ra USDJ. USDJ được lưu hành tự do như bất kỳ loại tiền điện tử nào khác sau khi được tạo ra. Nó được gắn với đồng đô la Mỹ thông qua Collateralized Debt Positions (CDPs) và cơ chế phản hồi tự trị.
 
-![钱包类别 示意图](https://gz.bcebos.com/tp-upload/newBanner/08.png '钱包类别')
+![钱包类别 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-08.png '钱包类别')
 
 JUST là một nền tảng cho vay phi tập trung sử dụng hai hệ thống mã thông báo: USDJ và JST. USDJ, được chốt với USD ở tỷ lệ 1: 1, có thể được tạo bằng cách thế chấp TRX trong cổng CDP của JUST. JST được sử dụng để thanh toán lãi suất, duy trì nền tảng, quản trị mạng thông qua bỏ phiếu và các hoạt động khác trên JUST.
 
-![钱包类别 示意图](https://gz.bcebos.com/tp-upload/newBanner/09.png '钱包类别')
+![钱包类别 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-09.png '钱包类别')
 
 JUST-DeFi được hỗ trợ bởi TokenPocket, nơi người dùng có thể nhận USDJ bằng cách thế chấp TRX.
 
@@ -144,7 +144,7 @@ DLive là cộng đồng truyền thông phát trực tiếp lớn nhất trên 
 
 Người dùng có thể nhập DLive và nhận phần thưởng đặt cược BTT thông qua TokenPocket.
 
-![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/10.png'节点钱包')
+![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-10.png '节点钱包')
 
 Trên trang đặt cược DLive BTT, hãy nhấp vào“Stake In” để đặt cược BTT và nhấp vào “Claim Reward” để nhận cổ tức của bạn.
 
@@ -164,19 +164,19 @@ Các mã thông báo dựa trên Tron có thể được giao dịch trong các 
 
 PoloniDex là một nền tảng giao dịch phi tập trung dựa trên Tron thuộc Poloniex. Được thành lập vào năm 2014, Poloniex là một nền tảng giao dịch tài sản kỹ thuật số hàng đầu thế giới được đăng ký tại Seychelles. Kể từ khi Poloniex được thành lập, các dịch vụ an toàn và hiệu quả của nó đã được người dùng công nhận, và lượng giao dịch thực của nó từ lâu đã được xếp vào top 3 trên thế giới. Hệ thống TrollBox ban đầu cho phép người dùng có được trải nghiệm giao dịch thú vị hơn. Tầm nhìn của Poloniex là tái tạo lại hệ thống tin cậy toàn cầu, để các giao dịch tiếp cận mọi ngóc ngách, giải phóng giá trị và làm cho giá trị lưu chuyển tự do.
 
-![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/11.png '节点钱包')
+![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-11.png '节点钱包')
 
 （2）TronTrade
 
 Trontrade là một nền tảng giao dịch phi tập trung dựa trên Tron, nơi bạn có thể dễ dàng mua và bán các loại tiền điện tử TRC10 và TRC20 khác nhau. Mục tiêu của TronTrade là trở thành sàn giao dịch phi tập trung an toàn nhất, thân thiện nhất và đáng tin cậy nhất cho các mã thông báo TRC10 và TRC20.
 
-![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/12.png '节点钱包')
+![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-12.png '节点钱包')
 
 （3） Newdex-Tron: sàn giao dịch phi tập trung hàng đầu thế giới
 
 Newdex được thành lập vào ngày 8 tháng 8 năm 2018 và được phát hành lần đầu tiên trên chuỗi công khai EOS. Vào tháng 8 năm 2019, ngoài chuỗi công khai EOS, Newdex đã bắt đầu hỗ trợ chuỗi công khai TRON. Newdex dành riêng cho việc xây dựng một nền tảng giao dịch phi tập trung đa chuỗi và chuỗi chéo.
 
-![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/13.png '节点钱包')
+![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-13.png '节点钱包')
 
 ## Các chức năng của ví TRON
 
@@ -223,7 +223,7 @@ Nếu ví luôn có lượng tiền gửi lớn và thường xuyên phải chuy
 
 Để chuyển, người dùng cần thao tác trong ví observe. Điều khác biệt so với chuyển khoản thông thường là mã QR sẽ bật lên khi cấp quyền. Sau đó, quét mã QR bằng ví lạnh và một mã QR khác sẽ được tạo. Quét mã QR bằng ví observe và hoàn tất toàn bộ quy trình.
 
-![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/14.png '节点钱包')
+![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-14.png '节点钱包')
 
 ### Nhận TRX
 
@@ -237,7 +237,7 @@ Trên trang Nhận, người dùng có thể sao chép địa chỉ của họ b
 
 Tương tự như cách người dùng có thể thực hiện chuyển khoản bằng cách quét mã QR của người nhận, họ cũng có thể nhận mã thông báo bằng cách yêu cầu người gửi mã thông báo quét mã QR của họ.
 
-![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/15.png '节点钱包')
+![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-15.png '节点钱包')
 
 ### Bỏ phiếu cho các nút TRON
 
@@ -248,7 +248,7 @@ Siêu đại diện: Siêu đại diện chịu trách nhiệm sản xuất các
 Người bình chọn: Thành viên cộng đồng TRON tham gia bỏ phiếu.
 Tỷ lệ phân phối phần thưởng: tỷ lệ phần thưởng dành cho những người bình chọn trong tổng số phần thưởng mà các siêu đại diện và siêu đối tác đạt được.
 
-![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/16.png '节点钱包')
+![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-16.png '节点钱包')
 
 #### 1、Quy tắc bỏ phiếu trên TRON
 
@@ -289,13 +289,13 @@ Bỏ phiếu qua ví TRON
 
 Trên trang bỏ phiếu trong ví TRON, chọn ứng cử viên để bỏ phiếu và số lượng phiếu bầu. Đây là cách dễ nhất và nhanh nhất để bỏ phiếu.
 
-![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/17.png '节点钱包')
+![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-17.png '节点钱包')
 
 Bình chọn trên trang web
 
 Truy cập https://Tronscan.io/, chọn nút bạn muốn bình chọn trên trang bình chọn và nhấp vào “bình chọn”.
 
-![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/18.png '节点钱包')
+![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-18.png '节点钱包')
 
 ### Bộ sưu tập mã thông báo trên TRON
 
@@ -303,13 +303,13 @@ Chức năng thu thập tài sản được hỗ trợ bởi lớp bên dưới 
 
 Người dùng cần nhập tất cả các tài khoản vào ví. Nếu tất cả các tài khoản dùng chung một mật khẩu, người dùng chỉ cần cấp quyền một lần; nếu không, quyền cần được cấp nhiều lần.
 
-![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/19.png '节点钱包')
+![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-19.png '节点钱包')
 
 ### DApp Whitelist cho TRON
 
 Chức năng whitelist cung cấp sự tiện lợi tuyệt vời cho người dùng để tận dụng DApps tốt hơn. Thông thường, khi khám phá DApps trên TRON, người dùng cần nhập mật khẩu mỗi khi họ tương tác với các hợp đồng thông minh. Tính năng danh sách trắng là thực hiện ủy quyền mà không cần phải nhập mật khẩu cho các hoạt động hợp đồng thông minh cụ thể trong DApp. Người dùng chỉ cần nhập mật khẩu một lần khi chức năng whitelist được bật.
 
-![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/20.png '节点钱包')
+![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-20.png '节点钱包')
 
 ### TRON Explorer
 
@@ -317,13 +317,13 @@ Blockchain explorer là cửa sổ chính để tra cứu thông tin blockchain 
 
 Hiện tại, TRON explorer thường được sử dụng là TronSCAN. Tronscan.io là trình khám phá khối đầu tiên dựa trên TRON. Nó không chỉ bao gồm một số chức năng cơ bản của trình khám phá khối, chẳng hạn như giao dịch tìm kiếm và truy vấn, tài khoản, khối, nút và hợp đồng thông minh, cũng như thu thập dữ liệu và truy vấn trên chuỗi mà còn hỗ trợ tạo mã thông báo. Trong khi đó, TronSCAN cũng có ví web tích hợp và DEX dựa trên Bancor, làm phong phú thêm các kịch bản ứng dụng của TronSCAN.
 
-![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/21.png '节点钱包')
+![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-21.png '节点钱包')
 
 ### Điều chỉnh đơn đặt hàng trên Wallet TRON
 
 Nhiều người dùng có nhiều tài khoản TRON và chức năng điều chỉnh thứ tự ví cho phép người dùng đặt các ví thường xuyên sử dụng nhất ở những vị trí đầu tiên chỉ bằng cách kéo, để họ có thể chuyển đổi ví và quản lý tài sản của mình thuận tiện hơn.
 
-![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/22.png '节点钱包')
+![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-22.png '节点钱包')
 
 ### TRON Testnet
 
@@ -331,7 +331,7 @@ Mạng thử nghiệm TRON có liên quan đến mạng chính. Mạng chính TR
 
 Tron testnet thường được sử dụng là TronLIN, hỗ trợ Tron testnet và SUN Network. Nó đang hoạt động ổn định và có thể được sử dụng để hỗ trợ phát triển và lặp lại dự án, cũng như sự tham gia của người dùng sớm.
 
-![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/23.png '节点钱包')
+![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-23.png '节点钱包')
 
 Nile testnet (http://nileex.io) cũng là một lựa chọn tốt, có phiên bản mã phù hợp với Tron mainnet.
 
@@ -341,7 +341,7 @@ Các kênh chính thức của Tron bao gồm Twitter @Tronfoundation và @justi
 
 Người dùng cũng có thể lấy thông tin liên quan đến Tron từ ví Tron, như TokenPocket. TokenPocket cung cấp trải nghiệm đọc một cửa cho người dùng, bao gồm các bản cập nhật mới nhất, tin tức flash và các bài báo về Tron.
 
-![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/24.png '节点钱包')
+![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-24.png '节点钱包')
 
 ### Khám phá TRON DApps
 
